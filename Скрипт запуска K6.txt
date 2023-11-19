@@ -1,0 +1,1 @@
+ k6 run "C:\DBA\js.jsn" -i 150 -d 60s
