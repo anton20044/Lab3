@@ -1,0 +1,1 @@
+ k6 run "C:\DBA\load.js" -i 750000 -d 300s --vus 1000
